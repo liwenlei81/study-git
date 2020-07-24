@@ -10,6 +10,6 @@ public class HelloGitController {
     @RequestMapping("/helloGit")
     public String helloGit(){
 
-        return "Hello Git!";
+        return "Hello Git v1.0 !";
     }
 }
