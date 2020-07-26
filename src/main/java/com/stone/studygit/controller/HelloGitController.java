@@ -10,7 +10,7 @@ public class HelloGitController {
     @RequestMapping("/helloGit")
     public String helloGit(){
 
-        return "Hello Git v0.7 master update -- merge 合并分支--restone!";
+        return "Hello Git v0.7 master update -- merge V1.0!";
 
     }
 }
